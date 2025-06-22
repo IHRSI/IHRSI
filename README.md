@@ -11,8 +11,7 @@
 
 ---
 <!-- Snake Game Repo View -->
-
-
+![snake gif](https://github.com/IHRSI/IHRSI/blob/output/github-snake-dark.svg)
 
 ---
 
