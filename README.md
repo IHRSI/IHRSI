@@ -1,7 +1,10 @@
-# 💫 Hi 👋, I'm Hiten
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Hiten!)](https://git.io/typing-svg)
+
 **💻 I’m a passionate developer aspiring to become a skilled Software Engineer, driven by curiosity and a love for problem-solving.**
 - 🔭 **I’m currently working on:** Voice Powered Payments
 - 🌱 **I’m currently learning:** Data Structures and Algorithms
+
+
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hiten-raj-singh-451998283/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hitencse75@gmail.com)
@@ -22,9 +25,16 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IHRSI&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=IHRSI&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IHRSI&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="right">
 
+![](https://nirzak-streak-stats.vercel.app/?user=IHRSI&theme=ambient_gradient&hide_border=false)<br/>
+</div>
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IHRSI&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+<div align="center">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -35,4 +45,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=IHRSI&icon=6&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Thank+You!;For+visiting)](https://git.io/typing-svg)
+
+</div>
