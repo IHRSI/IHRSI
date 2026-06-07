@@ -1,26 +1,49 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Hiten!)](https://git.io/typing-svg)
-
-🔭 **Currently Working On:** Comparative Study of Cloud Load Balancing Techniques Using Kubernetes  
-
-🚀 **Currently Building:** Official RedX Club Website 
-
-🌱 **Currently Strengthning:** Data Structures & Algorithms (DSA) and Core CS Fundamentals
-
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiten-raj-singh-451998283/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=%23FFA116)](https://leetcode.com/u/IHRSI/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hitencse75@gmail.com)
-
----
-<!-- Snake Game Repo View -->
-![snake gif](https://github.com/IHRSI/IHRSI/blob/output/github-snake-dark.svg)
-
----
-
 <div align="center">
 
-# ⚒️Techstack ⚒️:
+<!-- Waving Header SVG -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=150&section=header&text=Hi%20There%20%F0%9F%91%8B,%20I'm%20Hiten!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Problem%20Solver&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Header" />
+
+<br>
+
+🔭 **Currently Working On:** Comparative Study of Cloud Load Balancing Techniques Using Kubernetes<br>
+🚀 **Currently Building:** Official RedX Club Website<br>
+🌱 **Currently Strengthening:** Data Structures & Algorithms (DSA) and Core CS Fundamentals<br>
+🏃‍♂️ **Beyond the Keyboard:** When I'm not at hackathons building projects or solving algorithms, I usually fold intricate origami designs.
+
+<br>
+
+### 🌐 Connect With Me:
+<a href="https://ihrsi.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%2300E5FF.svg?style=for-the-badge&logo=web&logoColor=black" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/hiten-raj-singh-451998283/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://leetcode.com/u/IHRSI/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=%23FFA116" alt="LeetCode">
+</a>
+<a href="mailto:hitencse75@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+<!-- Glowing Separator Line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
+
+<br>
+
+### 🐍 GitHub Contributions Snake
+![Snake Animation](https://github.com/IHRSI/IHRSI/blob/output/github-snake-dark.svg)
+
+<br>
+
+<!-- Glowing Separator Line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
+
+<br>
+
+# ⚒️ Tech Stack ⚒️
 
 ### 🖥️ Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -55,25 +78,37 @@
 ![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 ### 🧠 Core Concepts
-`OOP` `DBMS` `Operating Systems` `Computer Networks` `SDLC` `Cryptography`
+`OOP` `DBMS` `Operating Systems` `Computer Networks` `SDLC` `Compiler Design` `Cryptography`
 
-<div align="center">
+<br>
 
-# 📊 GitHub Stats:
-<div align="center">
-  
-![](https://streak-stats.demolab.com/?user=IHRSI&theme=ambient_gradient&hide_border=true)<br/>
+<!-- Glowing Separator Line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
 
-<div align="center">
+<br>
+
+### 📊 GitHub & LeetCode Stats
+
+<table border="0" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=IHRSI&theme=ambient_gradient&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td width="50%" align="center">
+      <!-- LeetCode Stats without recent activity, matching dark theme -->
+      <img src="https://leetcard.jacoblin.cool/IHRSI?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 
+<br><br>
 
-<!--## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=IHRSI&label=Profile%20Views&color=0e75b6&style=for-the-badge)
--->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Thank+You!;For+visiting)](https://git.io/typing-svg)
+<!-- Waving Footer SVG -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer&text=Thanks%20For%20Visiting!&fontSize=30&animation=fadeIn&fontColor=ffffff" width="100%" alt="Footer" />
 
 </div>
