@@ -69,16 +69,25 @@
 ### ☁️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure AKS](https://img.shields.io/badge/Azure%20AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil_uVision-394049?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 ### 🧠 Core Concepts
-`OOP` `DBMS` `Operating Systems` `Computer Networks` `SDLC` `Compiler Design` `Cryptography`
+![OOP](https://img.shields.io/badge/OOP-2E3440?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-3B4252?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-434C5E?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-4C566A?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-59647B?style=for-the-badge)
+![Compiler Design](https://img.shields.io/badge/Compiler%20Design-66738C?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-73819D?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-8090AE?style=for-the-badge)
 
 <br>
 
